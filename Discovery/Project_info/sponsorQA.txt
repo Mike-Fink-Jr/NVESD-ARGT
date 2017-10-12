@@ -1,0 +1,33 @@
+Questions
+
+1. Best way of contact
+  A) email- dean.m.kissinger.civ@mail.mil
+
+2. Project Goals
+  A) very open ended, first goal is to define the scope of the project
+
+3. Expectations
+  A) Very little
+
+4. Equipment/hardware
+  A) hololens, M4-bluegun, anything else we might need
+  
+5. Site Visit
+  A) possible, easy for US Citizens, more difficult for foreign students @Fort Belvue, VA
+  
+6. Item Specification- USE WIKI
+  - initial velocity
+  - weight 
+  - min,max, and effective range
+  - use cases
+  - conditional variables that would change directory
+  
+7. Glasses specifications- Hololens
+
+9. Sensor placements and specifications
+    - embedded in the weapon
+    - glove
+    A) whichever we decide works best
+10. Securing product to helmet? 
+  A) ears
+
