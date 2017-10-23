@@ -1,0 +1,14 @@
+﻿  AngleTest.cpp
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(87): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(97): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(98): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(99): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(100): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(103): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(104): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(105): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(106): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(112): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\bbs5113\documents\visual studio 2015\projects\angletest\angletest\angletest.cpp(133): warning C4101: 'test': unreferenced local variable
+  AngleTest.vcxproj -> C:\Users\bbs5113\documents\visual studio 2015\Projects\AngleTest\Debug\AngleTest.exe
